@@ -1,0 +1,17 @@
+
+
+@font-face {
+    font-family: 'igbr-Rosario Bold';
+    
+    font-weight: bold;
+    
+    
+    src: 
+        url('https://branding.jifo.co/f492b6a6-c3e2-40de-bf68-7ecc9b4ac37a_Rosario-Bold.woff2') format('woff2'),
+        
+        url('https://branding.jifo.co/e853f9ec-67ef-4d42-b74d-12921cc288dd_Rosario-Bold.woff') format('woff'),
+        
+        url('https://branding.jifo.co/e405ab19-eea1-4afd-bd4b-93aa827844a0_Rosario-Bold.ttf') format('truetype');
+        
+}
+

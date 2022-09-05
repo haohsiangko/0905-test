@@ -1,0 +1,15 @@
+
+
+@font-face {
+    font-family: 'igbr-Noto Sans TC Regular';
+    
+    
+    src: 
+        url('https://branding.jifo.co/817429c2-d625-4c56-9dfc-708298e83fa5_Noto-Sans-TC-Regular.woff') format('woff'),
+        
+        url('https://branding.jifo.co/d095cfc5-596c-4897-8265-60974337d025_Noto-Sans-TC-Regular.ttf') format('truetype'),
+        
+        url('https://branding.jifo.co/62419539-8bc4-4767-b3ce-8699afc2883c_Noto-Sans-TC-Regular.otf') format('opentype');
+        
+}
+

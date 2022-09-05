@@ -1,0 +1,34 @@
+
+
+@font-face {
+    font-family: 'infogram_branding-Tisa Pro';
+    
+    font-weight: bold;
+    
+    
+    src: 
+        url('https://branding.jifo.co/09a54cf4-cd89-46bc-801c-54158ec69e0b_Tisa-Pro-Bold.woff2') format('woff2'),
+        
+        url('https://branding.jifo.co/8adfd855-eb6a-4f8c-a157-84e93742f967_Tisa-Pro-Bold.woff') format('woff'),
+        
+        url('https://branding.jifo.co/08e393d0-1df7-4da3-bbdb-fb90d4493a81_Tisa-Pro-Bold.ttf') format('truetype'),
+        
+        url('https://branding.jifo.co/4ebe4673-e450-403e-96ab-2ccfaf661479_Tisa-Pro-Bold.otf') format('opentype');
+        
+}
+
+@font-face {
+    font-family: 'infogram_branding-Tisa Pro';
+    
+    
+    src: 
+        url('https://branding.jifo.co/149cb019-8a8f-4623-9122-0f4f12e6172c_Tisa-Pro-Regular.woff2') format('woff2'),
+        
+        url('https://branding.jifo.co/76a144b2-b00e-4dd3-ac1e-0940cfbb9da8_Tisa-Pro-Regular.woff') format('woff'),
+        
+        url('https://branding.jifo.co/651178b1-22fb-461d-ae19-66d69fab87c9_Tisa-Pro-Regular.ttf') format('truetype'),
+        
+        url('https://branding.jifo.co/b5eeb731-5de3-45f3-8142-0116f011e38e_Tisa-Pro-Regular.otf') format('opentype');
+        
+}
+

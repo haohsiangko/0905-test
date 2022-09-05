@@ -1,0 +1,28 @@
+
+
+@font-face {
+    font-family: 'infogram_branding-Noto Sans CJK TC';
+    
+    font-weight: bold;
+    
+    
+    src: 
+        url('https://branding.jifo.co/593c31ba-60fc-4923-b9c6-958c1f0e499a_Noto-Sans-CJK-TC-Bold.ttf') format('truetype'),
+        
+        url('https://branding.jifo.co/c78e077a-2984-4e51-bb13-9c5f4729d6f2_Noto-Sans-CJK-TC-Bold.otf') format('opentype');
+        
+}
+
+@font-face {
+    font-family: 'infogram_branding-Noto Sans CJK TC';
+    
+    
+    src: 
+        url('https://branding.jifo.co/8fe7f880-f038-45f1-ac2a-095912a4d5dc_Noto-Sans-CJK-TC-Regular.woff') format('woff'),
+        
+        url('https://branding.jifo.co/6a8c608f-3df6-48b4-b1ae-825fecb436fc_Noto-Sans-CJK-TC-Regular.ttf') format('truetype'),
+        
+        url('https://branding.jifo.co/576a55e3-d022-40ac-ab71-65ad3a260ede_Noto-Sans-CJK-TC-Regular.otf') format('opentype');
+        
+}
+
